@@ -1,6 +1,6 @@
 # C--numbers-guessing-game
 
-![terminal example](https://ibb.co/wJCvqP1)
+<img src="https://i.ibb.co/1sKSNPx/C-consoleapppic.png" alt="" border="0">
 
 A numbers guessing game I wrote as a terminal application in C#
 
