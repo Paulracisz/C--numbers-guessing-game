@@ -1,6 +1,6 @@
 # C--numbers-guessing-game
 
-![example image for terminal](https://github.com/Paulracisz/C--numbers-guessing-game/blob/main/C#consoleapppic.png?raw=true)
+![terminal example](https://drive.google.com/file/d/1ZX4aYaHtm9yLNzAg8et9LDh7Ou0zXLf-/preview)
 
 A numbers guessing game I wrote as a terminal application in C#
 
